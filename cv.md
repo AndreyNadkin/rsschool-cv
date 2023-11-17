@@ -8,4 +8,5 @@
 **Desired work location:** Saransk , I want to move (Moscow, USA) , ready for rare business trips 
 
 ###Speciality
-    **_Frontend developer_**
+
+**_Junior Frontend Developer_**
