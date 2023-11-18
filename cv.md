@@ -8,8 +8,8 @@
 **Born:** August 21, 1990
 **Phone number:** +7 (927) 194-24-00
 **Email:** ram557665@yandex.ru
-**Desired work location:** Saransk , I want to move (Moscow, USA) , ready for rare business trips 
-<!-- ![Photo](D:\VS Code projects\RS School\rsschool-cv\11.jpg) -->
+**Desired work location:** Saransk , I want to move Moscow, ready for rare business trips
+
 
 ###Speciality
 
@@ -37,7 +37,7 @@ Have your own car
 
 ###Higher education
 **2012-2017** Mordovian National Research State University named after. N.P. Ogareva, Saransk
-S**Faculty:** Institute of Physics and Chemistry
+**Faculty:** Institute of Physics and Chemistry
 **Speciality:** Physics
 
 ###Knowledge of languages
