@@ -1,4 +1,4 @@
-<image src="D:\VS Code projects\RS School\rsschool-cv\11.jpg"  width="200" height="200" align='right' alt="">
+<image src="https://github.com/AndreyNadkin/rsschool-cv/blob/gh-pages/11.jpg"  width="200" height="200" align='right' alt="">
 
 ##Nadkin Andrei
 
